@@ -14,4 +14,5 @@ For example:
 5, 10, 2  -->  17
 */
 
+
 goals = (laLiga, copaDelRey, champions) => laLiga + copaDelRey + champions;
